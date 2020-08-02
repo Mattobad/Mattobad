@@ -3,7 +3,7 @@
 ## I'm a life long learner
 - 🔭 I’m currently working on a [Python for data analysis][dataAnalysis] and [Pneumonia-Detection-Using-DeepLearning][pneumonia]
 -  I'm currently reading [Deep Learning Illustrated by Jon Krohn][book1] and [Build a Career in Data Science][book2]
-- 🌱 I’m currently learning different tools and techquies in Data Science and Machine learning
+- 🌱 I’m currently learning different tools and techniques in Data Science and Machine learning
 - 👯 I’m looking to collaborate in innovative ideas
 - 🥅 2020 Goals: Solving business problem with data
 - ⚡ Fun fact: I love singing and playing guitar
