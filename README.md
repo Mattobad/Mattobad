@@ -1,8 +1,8 @@
 ### Hi there, I'm Sarbottam - Data Science and Machine Learning practitioner and learner👋
 
 ## I'm a life long learner
-- 🔭 I’m currently working on a [Python for data analysis][dataAnalysis] and [Pneumonia-Detection-Using-DeepLearning][pnuemonia]
--  I'm currently reading [Deep Learning Illustrated by Jon Krohn][https://www.deeplearningillustrated.com/] and [Build a Career in Data Science][https://www.manning.com/books/build-a-career-in-data-science]
+- 🔭 I’m currently working on a [Python for data analysis][dataAnalysis] and [Pneumonia-Detection-Using-DeepLearning][pneumonia]
+-  I'm currently reading [Deep Learning Illustrated by Jon Krohn][book1] and [Build a Career in Data Science][book2]
 - 🌱 I’m currently learning different tools and techquies in Data Science and Machine learning
 - 👯 I’m looking to collaborate in innovative ideas
 - 🥅 2020 Goals: Solving business problem with data
@@ -10,9 +10,9 @@
 
 
 Pinned:
-- ⚡ [Python for data science][https://github.com/Mattobad/Data-Science]
-- ⚡ [Popular Data Science Tags][https://github.com/Mattobad/Popular-Data-Science-topics]
-- ⚡ [Deploying Machine Learning models][https://github.com/Mattobad/Deploying-ML-Models]
+- ⚡ [Python for data science][repo1]
+- ⚡ [Popular Data Science Tags][repo2]
+- ⚡ [Deploying Machine Learning models][repo3]
 
 
 ### Connect with me:
@@ -66,3 +66,8 @@ Pinned:
 
 [dataAnalysis]:https://github.com/Mattobad/Data-Analysis
 [pneumonia]:https://github.com/Mattobad/Pneumonia-Detection-Deep-Learning
+[book1]:https://www.deeplearningillustrated.com/
+[book2]:https://www.manning.com/books/build-a-career-in-data-science
+[repo1]:https://github.com/Mattobad/Data-Science
+[repo2]:https://github.com/Mattobad/Popular-Data-Science-topics
+[repo3]:https://github.com/Mattobad/Deploying-ML-Models
