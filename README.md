@@ -1,4 +1,4 @@
-### Hi there, I'm Sarbottam - Data Science and Machine Learning practitioner and learner👋
+### Hi there, I'm Sarbottam Thapa Magar- Software Developer, Data Science, and Machine Learning practitioner and learner👋
 
 ## I'm a life long learner
 - 🔭 I’m currently working on a [Python for data analysis][dataAnalysis] and [Pneumonia-Detection-Using-DeepLearning][pneumonia]
@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning different tools and techniques in Data Science and Machine learning
 - 👯 I’m looking to collaborate in innovative ideas
 - 🥅 2020 Goals: Solving business problem with data
-- ⚡ Fun fact: I love singing and playing guitar
+- ⚡ Fun fact: I love cycling, singing, and playing guitar
 
 
 Pinned:
