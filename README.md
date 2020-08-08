@@ -60,10 +60,7 @@ Pinned:
 
 <img align="left" alt="Sarbottam Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mattobad&show_icons=true&hide_border=true" />
 
-<!-- [website]: https://codeSTACKr.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr -->
+
 [linkedin]: https://linkedin.com/in/sarbottam
 
 [dataAnalysis]:https://github.com/Mattobad/Data-Analysis
