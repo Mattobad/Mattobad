@@ -10,10 +10,12 @@
 
 
 Pinned:
-- ⚡ [Python for data science][repo1]
+- ⚡ [Python for Data Analysis][repo1]
 - ⚡ [Popular Data Science Tags][repo2]
 - ⚡ [Deploying Machine Learning models][repo3]
 
+
+### Check out my [Tableau Profile](https://public.tableau.com/profile/sarbottam.thapa.magar#!/)
 
 ### Connect with me:
 
@@ -21,6 +23,9 @@ Pinned:
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
 
 
 <br />
@@ -67,6 +72,6 @@ Pinned:
 [pneumonia]:https://github.com/Mattobad/Pneumonia-Detection-Deep-Learning
 [book1]:https://www.deeplearningillustrated.com/
 [book2]:https://www.manning.com/books/build-a-career-in-data-science
-[repo1]:https://github.com/Mattobad/Data-Science
+[repo1]:https://github.com/Mattobad/Data-Analysis
 [repo2]:https://github.com/Mattobad/Data-Analysis/tree/master/Popular-Data-Science-Tags
 [repo3]:https://github.com/Mattobad/Deploying-ML-Models
