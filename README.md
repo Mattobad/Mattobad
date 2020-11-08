@@ -1,7 +1,7 @@
 ### Hi there, I'm Sarbottam Thapa Magar- Software Developer, Data Science, and Machine Learning practitioner and learner👋
 
 ## I'm a life long learner
-- 🔭 I’m currently working on a [Data Analysis][dataAnalysis] and [Pneumonia-Detection-Using-DeepLearning][pneumonia]
+- 🔭 I’m currently working on a [Data Analysis][dataAnalysis] and [House Price Prediction][house]
 -  I'm currently reading [Deep Learning Illustrated by Jon Krohn][book1] and [Build a Career in Data Science][book2]
 - 🌱 I’m currently learning different tools and techniques in Data Science and Machine learning
 - 👯 I’m looking to collaborate in innovative ideas
@@ -70,6 +70,7 @@ Pinned:
 
 [dataAnalysis]:https://github.com/Mattobad/Data-Analysis
 [pneumonia]:https://github.com/Mattobad/Pneumonia-Detection-Deep-Learning
+[house]:https://github.com/Mattobad/House-Price-Prediction-Regression
 [book1]:https://www.deeplearningillustrated.com/
 [book2]:https://www.manning.com/books/build-a-career-in-data-science
 [repo1]:https://github.com/Mattobad/Data-Analysis
