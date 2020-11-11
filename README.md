@@ -2,7 +2,7 @@
 
 ## I'm a life long learner
 - 🔭 I’m currently working on a [Data Analysis][dataAnalysis] and [House Price Prediction][house]
--  I'm currently reading [Deep Learning Illustrated by Jon Krohn][book1] and [Build a Career in Data Science][book2]
+-  I'm currently reading [Deployment of Machine Learning Models][current1] and [Build a Career in Data Science][book2]
 - 🌱 I’m currently learning different tools and techniques in Data Science and Machine learning
 - 👯 I’m looking to collaborate in innovative ideas
 - 🥅 2020 Goals: Solving business problem with data
@@ -14,6 +14,7 @@ Pinned:
 - ⚡ [Popular Data Science Tags][repo2]
 - ⚡ [Deploying Machine Learning models][repo3]
 
+### Check out my [Portfolio website](https://mattobad.github.io/)
 
 ### Check out my [Tableau Profile](https://public.tableau.com/profile/sarbottam.thapa.magar#!/)
 
@@ -76,3 +77,5 @@ Pinned:
 [repo1]:https://github.com/Mattobad/Data-Analysis
 [repo2]:https://github.com/Mattobad/Data-Analysis/tree/master/Popular-Data-Science-Tags
 [repo3]:https://github.com/Mattobad/Deploying-ML-Models
+
+[current1]:https://www.udemy.com/course/deployment-of-machine-learning-models/
