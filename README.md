@@ -1,7 +1,7 @@
 ### Hi there, I'm Sarbottam Thapa Magar- Software Developer, Data Science, and Machine Learning practitioner and learner👋
 
 ## I'm a life long learner
-- 🔭 I’m currently working on a [Data Analysis][dataAnalysis] and [House Price Prediction][house]
+- 🔭 I’m currently working on [House Price Prediction][house]
 -  I'm currently reading [Deployment of Machine Learning Models][current1] and [Build a Career in Data Science][book2]
 - 🌱 I’m currently learning different tools and techniques in Data Science and Machine learning
 - 👯 I’m looking to collaborate in innovative ideas
