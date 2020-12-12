@@ -10,6 +10,7 @@
 
 
 Pinned:
+- ⚡ [House price prediction(Full Stack Data Science project)][house]
 - ⚡ [Python for Data Analysis][repo1]
 - ⚡ [Popular Data Science Tags][repo2]
 - ⚡ [Deploying Machine Learning models][repo3]
