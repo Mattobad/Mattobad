@@ -2,10 +2,10 @@
 
 ## I'm a life long learner
 - 🔭 I’m currently working on **Full Stack Data Science project**.
--  I'm currently reading [Deployment of Machine Learning Models][current1] and [Build a Career in Data Science][book2]
+-  I'm currently reading [People Skills for Analytical Thinkers][current1] and [Build a Career in Data Science][book2]
 - 🌱 I’m currently learning different tools and techniques in Data Science and Machine learning
 - 👯 I’m looking to collaborate in innovative ideas
-- 🥅 2020 Goals: Solving business problem with data
+- 🥅 2021 Goals: Apply data skills to turn data into business value insights
 - ⚡ Fun fact: I love cycling, singing, and playing guitar
 
 
@@ -22,8 +22,8 @@ Pinned:
 ### Connect with me:
 
 <!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
@@ -69,6 +69,7 @@ Pinned:
 
 
 [linkedin]: https://linkedin.com/in/sarbottam
+[twitter]:https://twitter.com/SarbottamM
 
 [dataAnalysis]:https://github.com/Mattobad/Data-Analysis
 [pneumonia]:https://github.com/Mattobad/Pneumonia-Detection-Deep-Learning
@@ -79,4 +80,4 @@ Pinned:
 [repo2]:https://github.com/Mattobad/Data-Analysis/tree/master/Popular-Data-Science-Tags
 [repo3]:https://github.com/Mattobad/Deploying-ML-Models
 
-[current1]:https://www.udemy.com/course/deployment-of-machine-learning-models/
+[current1]:https://www.goodreads.com/book/show/55238787-people-skills-for-analytical-thinkers
