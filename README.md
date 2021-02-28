@@ -65,7 +65,7 @@ Pinned:
 <br />
 <br />
 
-<!--<img align="left" alt="Sarbottam Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mattobad&show_icons=true&hide_border=true" />-->
+<img align="left" alt="Sarbottam Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mattobad&show_icons=true&hide_border=true" />
 
 
 [linkedin]: https://linkedin.com/in/sarbottam
