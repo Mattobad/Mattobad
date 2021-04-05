@@ -2,7 +2,7 @@
 
 ## I'm a life long learner
 - 🔭 I’m currently working on **Full Stack Data Science project**.
--  I'm currently reading [People Skills for Analytical Thinkers][current1] and [Atomic Habits][book3]
+- 📖 I'm currently reading [People Skills for Analytical Thinkers][current1] and [Atomic Habits][book3]
 - 🌱 I’m currently learning different tools and techniques in Data Science and Machine learning
 - 👯 I’m looking to collaborate in innovative ideas
 - 🥅 2021 Goals: Apply data skills to turn data into business value insights
