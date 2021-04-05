@@ -2,7 +2,7 @@
 
 ## I'm a life long learner
 - 🔭 I’m currently working on **Full Stack Data Science project**.
--  I'm currently reading [People Skills for Analytical Thinkers][current1] and [Build a Career in Data Science][book2]
+-  I'm currently reading [People Skills for Analytical Thinkers][current1] and [Atomic Habits][book3]
 - 🌱 I’m currently learning different tools and techniques in Data Science and Machine learning
 - 👯 I’m looking to collaborate in innovative ideas
 - 🥅 2021 Goals: Apply data skills to turn data into business value insights
@@ -76,6 +76,7 @@ Pinned:
 [house]:https://github.com/Mattobad/House-Price-Prediction-Regression
 [book1]:https://www.deeplearningillustrated.com/
 [book2]:https://www.manning.com/books/build-a-career-in-data-science
+[book3]:https://jamesclear.com/atomic-habits
 [repo1]:https://github.com/Mattobad/Data-Analysis
 [repo2]:https://github.com/Mattobad/Data-Analysis/tree/master/Popular-Data-Science-Tags
 [repo3]:https://github.com/Mattobad/Deploying-ML-Models
