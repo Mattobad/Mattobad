@@ -2,7 +2,7 @@
 
 ## I'm a life long learner
 - 🔭 I’m currently working on **Full Stack Data Science project**.
-- 📖 I'm currently reading [People Skills for Analytical Thinkers][current1] and [Atomic Habits][book3]
+- 📖 I'm currently reading [Build a career in Data Science][book2].
 - 🌱 I’m currently learning different tools and techniques in Data Science and Machine learning
 - 👯 I’m looking to collaborate in innovative ideas
 - 🥅 2021 Goals: Apply data skills to turn data into business value insights
@@ -10,14 +10,17 @@
 
 
 Pinned:
+- ⚡ [Quantile Regression for the Vehicle price prediction][v_prjt]
 - ⚡ [House price prediction(Full Stack Data Science project)][house]
-- ⚡ [Python for Data Analysis][repo1]
+- ⚡ [Python for Data Analysis][da]
 - ⚡ [Popular Data Science Tags][repo2]
 - ⚡ [Deploying Machine Learning models][repo3]
 
 ### Check out my [Portfolio website](https://mattobad.github.io/)
 
 ### Check out my [Tableau Profile](https://public.tableau.com/profile/sarbottam.thapa.magar#!/)
+
+### Check out my [Data Analysis using Python][da] workbook.
 
 ### Connect with me:
 
@@ -82,3 +85,6 @@ Pinned:
 [repo3]:https://github.com/Mattobad/Deploying-ML-Models
 
 [current1]:https://www.goodreads.com/book/show/55238787-people-skills-for-analytical-thinkers
+
+[da]: http://sarbottamthapamagar.com/Data-Analysis/
+[v_prjt]: https://github.com/Mattobad/Vehicle-Interval-model
