@@ -1,11 +1,11 @@
 ### Hi there, I'm Sarbottam Thapa Magar- Software Developer, Data Science, and Machine Learning practitioner and learner👋
 
 ## I'm a life long learner
-- 🔭 I’m currently working on **Full Stack Data Science project**.
+- 🔭 I’m currently working on **Coming Soon...**.
 - 📖 I'm currently reading [Practical Statistics for Data Scientists][book4].
 - 🌱 I’m currently learning different tools and techniques in Data Science and Machine learning
 - 👯 I’m looking to collaborate in innovative ideas
-- 🥅 2021 Goals: Apply data skills to turn data into business value insights
+- 🥅 2022 Goals: Apply data skills to turn data into business value insights plus working on fundamentals for Data Science & Machine Learning.
 - ⚡ Fun fact: I love cycling, singing, and playing guitar
 
 
@@ -87,5 +87,5 @@ Pinned:
 
 [current1]:https://www.goodreads.com/book/show/55238787-people-skills-for-analytical-thinkers
 
-[da]: http://sarbottamthapamagar.com/Data-Analysis/
+[da]: https://mattobad.github.io/Data-Analysis/
 [v_prjt]: https://github.com/Mattobad/Vehicle-Interval-model
