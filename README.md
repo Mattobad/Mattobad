@@ -2,7 +2,7 @@
 
 ## I'm a life long learner
 - 🔭 I’m currently working on **Coming Soon...**.
-- 📖 I'm currently reading [Practical Statistics for Data Scientists][book4].
+- 📖 I'm currently reading [Art of Data Science][book5].
 - 🌱 I’m currently learning different tools and techniques in Data Science and Machine learning
 - 👯 I’m looking to collaborate in innovative ideas
 - 🥅 2022 Goals: Apply data skills to turn data into business value insights plus working on fundamentals for Data Science & Machine Learning.
@@ -81,6 +81,7 @@ Pinned:
 [book2]:https://www.manning.com/books/build-a-career-in-data-science
 [book3]:https://jamesclear.com/atomic-habits
 [book4]:https://www.amazon.ca/Practical-Statistics-Data-Scientists-Essential/dp/149207294X
+[book5]:https://bookdown.org/rdpeng/artofdatascience/
 [repo1]:https://github.com/Mattobad/Data-Analysis
 [repo2]:https://github.com/Mattobad/Data-Analysis/tree/master/Popular-Data-Science-Tags
 [repo3]:https://github.com/Mattobad/Deploying-ML-Models
